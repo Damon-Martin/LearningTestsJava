@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.StackTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-02-15T23:22:09" hostname="DAMONPC" time="0.016">
+  <properties/>
+  <testcase name="getSize()" classname="org.example.StackTest" time="0.011"/>
+  <testcase name="pop()" classname="org.example.StackTest" time="0.001"/>
+  <testcase name="peak()" classname="org.example.StackTest" time="0.001"/>
+  <testcase name="push()" classname="org.example.StackTest" time="0.001"/>
+  <system-out><![CDATA[Start of all Tests
+Runs Before Current Test
+Run After Current Test
+Runs Before Current Test
+Run After Current Test
+Runs Before Current Test
+Run After Current Test
+Runs Before Current Test
+Run After Current Test
+End of Tests
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
